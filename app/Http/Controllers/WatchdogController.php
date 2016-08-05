@@ -110,7 +110,6 @@ class WatchdogController extends Controller {
       $fb = $firebase->firebaseCreate($data[0], $finalData);
 
       return $fb;
-      //return $fb;
     }
 
 

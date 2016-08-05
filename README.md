@@ -1,25 +1,25 @@
-# Lumen Tutorial
+# Cospic Webservice
 
-This is a sample project for a tutorial session that I give. Feel free to have a look around but note that there are some blanks you need to fill.
+This is the Webservice for the [Cospic Project](https://github.com/cfspluscosmos). This piece of software receives data from Cosmos, organize it and inset into the Firebase Database. This Webservice is ready to be integrated "as a Service".
 
-## Coming from Laravel
-
-If you're coming from Laravel, here are some differences you'll notice:
-
-- In order to use a `.env` file to load env vars, you will need to uncomment the `Dotenv::load()` method in `bootstrap/app.php`.
-- `php artisan` has a limited command set, and you'll need to generate your own key as there's no key:generate.
-- Enable Eloquent by uncommenting `$app->withEloquent()` in `bootstrap/app.php`.
-- The router used is different from that of Laravel.
+The Websiervice was built on [Lumen Framework](http://lumen.laravel.com/docs/installation)
 
 ## Getting Started
+Clone the project
 
-If you want to install Lumen from scratch and follow along, follow the instructions here: http://lumen.laravel.com/docs/installation
+`git clone`
 
-When you're ready to create a new project, issue the following command `lumen new lumen-api`
+Install it using [Composer](https://getcomposer.org/)
 
-If you're using Homestead, this should be no different for you than a Laravel app.
+`composer install`
 
-If you're developing locally, you should know that the `artisan` command is missing the `serve` command. I recommend that you use PHP's built in web server: `php -S 127.0.0.1:8080 -t public/`
+And wait for the project to be installed.
+
+
+## Setting the Firebase
+
+
+
 
 ### License
 
