@@ -7,23 +7,25 @@ The Websiervice was built on [Lumen Framework](http://lumen.laravel.com/docs/ins
 ## Getting Started
 Clone the project
 
-`git clone`
+After cloning, change to its directory
 
-Install it using [Composer](https://getcomposer.org/)
+`cd cospic-webservice`
+
+Install the dependencies using [Composer](https://getcomposer.org/)
 
 `composer install`
 
-And wait for the project to be installed.
+And wait for all the files to be installed.
 
 
 ## Setting up the Firebase
 
 First of all, you need to create an account on Firebase and setup a new "Web" application.
 
-You need to setup your Firebase credentials. Go to the `.env.example` file, inside the project root, and set your `FIREBASE_SECRET`, `FIREBASE_AUTH_DOMAIN` and `FIREBASE_DB_URL`. Save this file as `.env` (remove the ".example").
-All these information can be found on the [Firebase documentation](https://www.firebase.com/docs/rest/).
+Next, you need to setup your Firebase credentials. Go to the `.env.example` file, inside the project root, and set your `FIREBASE_SECRET`, `FIREBASE_AUTH_DOMAIN` and `FIREBASE_DB_URL`. Save this file as `.env` (remove the ".example").
+All the information on how to get the credentials can be found on the [Firebase documentation](https://www.firebase.com/docs/rest/).
 
 
 ### License
 
-The Lumen framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+The Copsic Webservice is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
