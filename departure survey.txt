@@ -1,0 +1,18 @@
+Please share additional comments regarding your BSMP experience or expand on your previous answers.
+
+It was, by far, the most exciting and interesting experience in my life. Learning a new culture and interacting with people that embrace this culture was exceptional.
+
+
+
+Did your AT opportunity meet your expectations and did you meet the goals and
+objectives proposed in your AT Request form? Please explain and include the most
+important things you learned during your AT:
+
+The AT I participated mostly met my expectations. At the beginning I thought we were going to develop our own cubesat, or at least, be in touch with the development of a real one. As soon as we started working, I realized the research topics were related to cubesat technologies, not to a cubesat itself. Which I found not to be a problem. There was about 27 research topics of which we should choose 5 plus the "main mission". I chose 6: Cubesat Swarm, TrapSat, Ion Drive Nuzzle, 3U Cubesat Frame, Jumpstarting Brazilian Aerospace Industry and SatNOGS. Unfortunately, I quit the 3U Cubesat Frame since I realized that we were not going to build a real frame. Besides it, I learnt a lot from those works. The main point were the fact my team work and managing skills were greatly improved and the fact I lived the complexity of Integration Engineering. In the end I can assure I met the goals and objectives proposed by the AT.
+
+
+
+
+What aspects of your AT were the most difficult for you, and how did you handle these challenges?
+
+Dealing with things out of my comfort zone, such as Electromagnetism, was a challenging point. But in the end I found myself enjoying developing research on that topic. Besides, the location of the university was also a difficult point. I bypassed that just by managing my schedule and being patient.
